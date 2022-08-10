@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @vrxyt
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel, Flutter
-<!--- - 💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning Laravel and Flutter
 - 📫 E-Mail: vrx@l3st.pl
+<!--- - 💞️ I’m looking to collaborate on ...--->
+
 
 ---
 
