@@ -23,6 +23,8 @@
    - SSD: 512GB M.2 + 320GB HDD
    - GPU: NVIDIA Geforce GTX 1050 Ti
    
+---
+   
 - Other Specs
 
    - Microphone: Novox NC-1
