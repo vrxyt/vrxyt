@@ -27,9 +27,8 @@
    
 - Other Specs
 
-   - Microphone: Novox NC-1
-   - Router: Currently i'm using phone as router, but i have plan to buy Huawei 5G CPE Pro 2
-   - Phone: Poco M3 Pro 5G
+   - Microphone: RODE NT-2A
+   - Phone: iPhone 14 Plus
 
 <!---
 vrxyt/vrxyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
