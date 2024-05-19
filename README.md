@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @vrxyt
-- 👀 I’m interested in making own game like GTA or Forza
-- 🌱 I’m currently learning Laravel and Flutter
+- 👀 I’m interested in making own innovative social media platform.
+- 🌱 I’m currently learning React.JS
 - 📫 E-Mail: vrx@l3st.pl
 <!--- - 💞️ I’m looking to collaborate on ...--->
 
 
 ---
 
-- Main PC Specs
+- Gaming/Render PC Specs
 
    - CPU: Intel Core i5 10400F
    - RAM: 32 GB DDR4 3200Mhz
@@ -15,20 +15,13 @@
    - GPU: NVIDIA Geforce RTX 3060 Ti
 
 ---
-
-- Backup PC Specs
-
-   - CPU: Intel Core i5 9300H
-   - RAM: 24 GB DDR4 2666Mhz
-   - SSD: 512GB M.2 + 320GB HDD
-   - GPU: NVIDIA Geforce GTX 1050 Ti
-   
----
    
 - Other Specs
 
+   - Coding PC: MacBook Air M2 8/256GB
    - Microphone: RODE NT-2A
    - Phone: iPhone 14 Plus
+   - Console: PlayStation5
 
 <!---
 vrxyt/vrxyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
