@@ -18,7 +18,7 @@
    
 - Other Specs
 
-   - Coding PC: MacBook Air M2 8/256GB
+   - Programming PC: MacBook Air M2 8/256GB
    - Microphone: RODE NT-2A
    - Phone: iPhone 14 Plus
    - Console: PlayStation5
